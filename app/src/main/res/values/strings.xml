@@ -1,6 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">YNUFlowerhouse</string>
     <string name="title_home">首页</string>
     <string name="title_dashboard">鲜花栏</string>
     <string name="title_notifications">订单中心</string>
+    <string name="title_activity_add_order" tools:ignore="ExtraTranslation">填写订单详情</string>
 </resources>
