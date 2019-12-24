@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 //权限同意
             }
 
-        } else { //低于23 不需要特殊处理，去掉用拍照的方法  }
+        } else { //低于23 不需要特殊处理  }
 
         }
 
